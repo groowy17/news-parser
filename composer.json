@@ -1,0 +1,7 @@
+{
+    "name": "rbk-news",
+    "description": "Parser for rbk",
+    "autoload": {
+        "psr-4": {"News\\": "src/"}
+    }
+}
